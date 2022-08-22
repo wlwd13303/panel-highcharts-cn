@@ -60,7 +60,7 @@ class HighBase(LayoutDOM):
         "https://cdn.highcharts.com.cn/highcharts.js",
         "https://cdn.highcharts.com.cn/modules/export-data.js",
         "https://cdn.highcharts.com.cn/modules/exporting.js",
-        "https://cdn.highcharts.com.cn/highcharts-plugins/highcharts-zh_CN.js",
+        "https://code.highcharts.com.cn/highcharts-plugins/highcharts-zh_CN.js",
     ]
 
     @classproperty
