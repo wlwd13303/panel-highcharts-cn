@@ -4,6 +4,11 @@
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/MarcSkovMadsen.svg?style=social)](https://twitter.com/MarcSkovMadsen)
 
+# panel-highcharts的中文版本
+1. 采用highcharts.com.cn的中文版js，全面支持中文
+2. 调通了highcharts.com.cn上的一些中文例子
+
+
 # &#128200; Panel HighCharts
 
 The `panel-highcharts` package makes it easy to use [Highcharts](https://www.highcharts.com/) from Python for exploratory analysis in a Jupyter Notebook or as a [HoloViz Panel](https://panel.holoviz.org) Web App.
